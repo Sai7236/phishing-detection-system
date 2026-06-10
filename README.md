@@ -52,7 +52,7 @@ and brand impersonation attacks in real time.
 | `system architecture.png` | System architecture diagram |
 
 > **Trained models (too large for GitHub) are shared via Google Drive:**
-> [Click here to access models folder]
+> [Click here to access models folder]https://drive.google.com/drive/folders/1DvoRrtggH3_E2wpANauYHoLq3hab0Wbq
 
 ---
 
