@@ -47,7 +47,8 @@ and brand impersonation attacks in real time.
 
 | File | Description |
 |------|-------------|
-| `Email_threat_detection.ipynb` | Complete Colab notebook — all 20 cells |
+| `Training_Project_fixed(1).ipynb` | Complete Colab notebook — all 20 cells |
+| `Email_threat)detection_fixed.ipynb` | Loading the models  |
 | `email_threat_detection_doc.pdf` | Full project documentation |
 | `system architecture.png` | System architecture diagram |
 
