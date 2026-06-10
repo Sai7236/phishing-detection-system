@@ -68,3 +68,14 @@ and brand impersonation attacks in real time.
 ---
 
 ## 🛠️ Tech Stack
+Python 3.10 · PyTorch · HuggingFace Transformers · OpenAI CLIP
+scikit-learn · SHAP · LIME · tldextract · FastAPI · Gradio · MLflow
+Google Colab T4 GPU · Google Drive
+
+---
+
+## 🏛️ College Details
+
+**Mahatma Gandhi Institute of Technology (Autonomous)**
+Affiliated to JNTUH · Kokapet, Gandipet, Hyderabad - 500075
+Department of Emerging Technologies · 2025–2026
