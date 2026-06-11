@@ -1,4 +1,4 @@
-# 🛡️ Intelligent Phishing & Scam Detection System
+# 🛡️ Spam E-mail and Website Threat Detection System
 
 ### Industrial Oriented Mini Project Project — MGIT, Department of Emerging Technologies
 **Students:** D Sai Prakash (23261A6611) | Mekala VishnuVardhan (23261A6628)
