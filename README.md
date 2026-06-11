@@ -48,7 +48,7 @@ and brand impersonation attacks in real time.
 | File | Description |
 |------|-------------|
 | `Training_Project_fixed(1).ipynb` | Complete Colab notebook — all 20 cells |
-| `Email_threat)detection_fixed.ipynb` | Loading the models  |
+| `Email_threat_detection_fixed.ipynb` | Loading the models  |
 | `email_threat_detection_doc.pdf` | Full project documentation |
 
 > **Trained models (too large for GitHub) are shared via Google Drive:**
