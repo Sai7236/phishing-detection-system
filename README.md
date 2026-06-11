@@ -50,7 +50,6 @@ and brand impersonation attacks in real time.
 | `Training_Project_fixed(1).ipynb` | Complete Colab notebook — all 20 cells |
 | `Email_threat)detection_fixed.ipynb` | Loading the models  |
 | `email_threat_detection_doc.pdf` | Full project documentation |
-| `system architecture.png` | System architecture diagram |
 
 > **Trained models (too large for GitHub) are shared via Google Drive:**
 > [Click here to access models folder]https://drive.google.com/drive/folders/1DvoRrtggH3_E2wpANauYHoLq3hab0Wbq
